@@ -1,3 +1,3 @@
 # SWDV-691-Capstone-Project-User-Interface
 
-This repository will store all the project files realted to the user interface for the ShiftHub application. The sprint retrospective is available under the Projects tab. 
+ShiftHub is an application that streamlines workforce scheduling processes for managers and employees. As part of the development process for this application, this project focuses on the building the application's user interface to support the goals and use cases of the target audience. 
