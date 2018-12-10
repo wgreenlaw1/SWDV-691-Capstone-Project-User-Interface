@@ -5,8 +5,12 @@ body {
   text-align: center;
 }
 
+li {
+  text-align: left;
+}
+
 .navbar {
-  margin: 1% auto;
+  margin: 0 auto 1% auto;
 }
 
 .shifthub-header {
@@ -26,4 +30,8 @@ body {
 
 .shift-list {
   margin: 1% auto;
+}
+
+.day {
+  border: 1px solid;
 }
